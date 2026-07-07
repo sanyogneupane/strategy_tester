@@ -5,4 +5,4 @@ simple tester for different strategies i come across
 - strategies can be easily added and tested
 - provide quantitative data for edge refinement in my own discretionary system
 
-/OUTLINE.md for technicals
+/OUTLINE.md for more depth
