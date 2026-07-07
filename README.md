@@ -1,7 +1,7 @@
 # strategy_tester
 
-simple tester for different strategies i come across
+### simple tester for different strategies i come across
 
-goals:
+# goals:
 - strategies can be easily added and tested
 - provide quantitative data for edge refinement in my own discretionary system
