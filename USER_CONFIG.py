@@ -1,5 +1,6 @@
 # Data
-PATH = "data/123.csv"
+DATA_TYPE = 'ohlc'
+PATH = f"data/{DATA_TYPE}/123.csv"
 
 # Strategy data
 STRATEGY = "test123"
